@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+}
+
+.container{
+    position: fixed;
+    background-color:lightblue;
+    
+}
+
+.middle-container{
+    background-color:white;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+
+}
+
+.QR-code{
+    width: 250px;
+    height: 260px;
+    margin-left: 24px;
+    margin-top: 23px;
+    border-radius: 10px;
+}
+
+.hedding-h2{
+    position: relative;
+    margin: auto;
+    text-align: center;
+    top: 10px;
+}
+
+.para{
+    position: relative;
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
